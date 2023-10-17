@@ -10,7 +10,7 @@ year ,Name,CODE,number,AreaName,RegName,DevName
 1980,Argentina,ARG,570,Latin America and the Caribbean,South America,Developing regions
 1980,Armenia,ARM,0,Asia,Western Asia,Developing regions
 1980,Aruba,ABW,0,Latin America and the Caribbean,Caribbean,Developing regions
-1980,Australia,AUS,280,Oceania,Australia and New Zealand,Developed regions
+1980,Australia,AUS,0,Oceania,Australia and New Zealand,Developed regions
 1980,Austria,AUT,4100,Europe,Western Europe,Developed regions
 1980,Azerbaijan,AZE,0,Asia,Western Asia,Developing regions
 1980,Bahamas,BHM,10,Latin America and the Caribbean,Caribbean,Developing regions
@@ -232,7 +232,7 @@ year ,Name,CODE,number,AreaName,RegName,DevName
 1981,Argentina,ARG,640,Latin America and the Caribbean,South America,Developing regions
 1981,Armenia,ARM,0,Asia,Western Asia,Developing regions
 1981,Aruba,ABW,0,Latin America and the Caribbean,Caribbean,Developing regions
-1981,Australia,AUS,180,Oceania,Australia and New Zealand,Developed regions
+1981,Australia,AUS,0,Oceania,Australia and New Zealand,Developed regions
 1981,Austria,AUT,3510,Europe,Western Europe,Developed regions
 1981,Azerbaijan,AZE,0,Asia,Western Asia,Developing regions
 1981,Bahamas,BHM,20,Latin America and the Caribbean,Caribbean,Developing regions
@@ -454,7 +454,7 @@ year ,Name,CODE,number,AreaName,RegName,DevName
 1982,Argentina,ARG,850,Latin America and the Caribbean,South America,Developing regions
 1982,Armenia,ARM,0,Asia,Western Asia,Developing regions
 1982,Aruba,ABW,0,Latin America and the Caribbean,Caribbean,Developing regions
-1982,Australia,AUS,170,Oceania,Australia and New Zealand,Developed regions
+1982,Australia,AUS,0,Oceania,Australia and New Zealand,Developed regions
 1982,Austria,AUT,5120,Europe,Western Europe,Developed regions
 1982,Azerbaijan,AZE,0,Asia,Western Asia,Developing regions
 1982,Bahamas,BHM,0,Latin America and the Caribbean,Caribbean,Developing regions
@@ -676,7 +676,7 @@ year ,Name,CODE,number,AreaName,RegName,DevName
 1983,Argentina,ARG,520,Latin America and the Caribbean,South America,Developing regions
 1983,Armenia,ARM,0,Asia,Western Asia,Developing regions
 1983,Aruba,ABW,0,Latin America and the Caribbean,Caribbean,Developing regions
-1983,Australia,AUS,150,Oceania,Australia and New Zealand,Developed regions
+1983,Australia,AUS,0,Oceania,Australia and New Zealand,Developed regions
 1983,Austria,AUT,1670,Europe,Western Europe,Developed regions
 1983,Azerbaijan,AZE,0,Asia,Western Asia,Developing regions
 1983,Bahamas,BHM,20,Latin America and the Caribbean,Caribbean,Developing regions
@@ -898,7 +898,7 @@ year ,Name,CODE,number,AreaName,RegName,DevName
 1984,Argentina,ARG,400,Latin America and the Caribbean,South America,Developing regions
 1984,Armenia,ARM,0,Asia,Western Asia,Developing regions
 1984,Aruba,ABW,0,Latin America and the Caribbean,Caribbean,Developing regions
-1984,Australia,AUS,120,Oceania,Australia and New Zealand,Developed regions
+1984,Australia,AUS,0,Oceania,Australia and New Zealand,Developed regions
 1984,Austria,AUT,1040,Europe,Western Europe,Developed regions
 1984,Azerbaijan,AZE,0,Asia,Western Asia,Developing regions
 1984,Bahamas,BHM,20,Latin America and the Caribbean,Caribbean,Developing regions
@@ -1120,7 +1120,7 @@ year ,Name,CODE,number,AreaName,RegName,DevName
 1985,Argentina,ARG,540,Latin America and the Caribbean,South America,Developing regions
 1985,Armenia,ARM,0,Asia,Western Asia,Developing regions
 1985,Aruba,ABW,0,Latin America and the Caribbean,Caribbean,Developing regions
-1985,Australia,AUS,150,Oceania,Australia and New Zealand,Developed regions
+1985,Australia,AUS,0,Oceania,Australia and New Zealand,Developed regions
 1985,Austria,AUT,970,Europe,Western Europe,Developed regions
 1985,Azerbaijan,AZE,0,Asia,Western Asia,Developing regions
 1985,Bahamas,BHM,20,Latin America and the Caribbean,Caribbean,Developing regions
@@ -1342,7 +1342,7 @@ year ,Name,CODE,number,AreaName,RegName,DevName
 1986,Argentina,ARG,650,Latin America and the Caribbean,South America,Developing regions
 1986,Armenia,ARM,0,Asia,Western Asia,Developing regions
 1986,Aruba,ABW,0,Latin America and the Caribbean,Caribbean,Developing regions
-1986,Australia,AUS,100,Oceania,Australia and New Zealand,Developed regions
+1986,Australia,AUS,0,Oceania,Australia and New Zealand,Developed regions
 1986,Austria,AUT,1230,Europe,Western Europe,Developed regions
 1986,Azerbaijan,AZE,0,Asia,Western Asia,Developing regions
 1986,Bahamas,BHM,20,Latin America and the Caribbean,Caribbean,Developing regions
@@ -1564,7 +1564,7 @@ year ,Name,CODE,number,AreaName,RegName,DevName
 1987,Argentina,ARG,630,Latin America and the Caribbean,South America,Developing regions
 1987,Armenia,ARM,0,Asia,Western Asia,Developing regions
 1987,Aruba,ABW,0,Latin America and the Caribbean,Caribbean,Developing regions
-1987,Australia,AUS,50,Oceania,Australia and New Zealand,Developed regions
+1987,Australia,AUS,0,Oceania,Australia and New Zealand,Developed regions
 1987,Austria,AUT,1480,Europe,Western Europe,Developed regions
 1987,Azerbaijan,AZE,0,Asia,Western Asia,Developing regions
 1987,Bahamas,BHM,40,Latin America and the Caribbean,Caribbean,Developing regions
@@ -1786,7 +1786,7 @@ year ,Name,CODE,number,AreaName,RegName,DevName
 1988,Argentina,ARG,630,Latin America and the Caribbean,South America,Developing regions
 1988,Armenia,ARM,0,Asia,Western Asia,Developing regions
 1988,Aruba,ABW,0,Latin America and the Caribbean,Caribbean,Developing regions
-1988,Australia,AUS,10,Oceania,Australia and New Zealand,Developed regions
+1988,Australia,AUS,0,Oceania,Australia and New Zealand,Developed regions
 1988,Austria,AUT,1480,Europe,Western Europe,Developed regions
 1988,Azerbaijan,AZE,0,Asia,Western Asia,Developing regions
 1988,Bahamas,BHM,40,Latin America and the Caribbean,Caribbean,Developing regions
@@ -2008,7 +2008,7 @@ year ,Name,CODE,number,AreaName,RegName,DevName
 1989,Argentina,ARG,660,Latin America and the Caribbean,South America,Developing regions
 1989,Armenia,ARM,0,Asia,Western Asia,Developing regions
 1989,Aruba,ABW,0,Latin America and the Caribbean,Caribbean,Developing regions
-1989,Australia,AUS,10,Oceania,Australia and New Zealand,Developed regions
+1989,Australia,AUS,0,Oceania,Australia and New Zealand,Developed regions
 1989,Austria,AUT,1050,Europe,Western Europe,Developed regions
 1989,Azerbaijan,AZE,0,Asia,Western Asia,Developing regions
 1989,Bahamas,BHM,0,Latin America and the Caribbean,Caribbean,Developing regions
@@ -4450,7 +4450,7 @@ year ,Name,CODE,number,AreaName,RegName,DevName
 2000,Argentina,ARG,380,Latin America and the Caribbean,South America,Developing regions
 2000,Armenia,ARM,20,Asia,Western Asia,Developing regions
 2000,Aruba,ABW,0,Latin America and the Caribbean,Caribbean,Developing regions
-2000,Australia,AUS,10,Oceania,Australia and New Zealand,Developed regions
+2000,Australia,AUS,0,Oceania,Australia and New Zealand,Developed regions
 2000,Austria,AUT,700,Europe,Western Europe,Developed regions
 2000,Azerbaijan,AZE,20,Asia,Western Asia,Developing regions
 2000,Bahamas,BHM,10,Latin America and the Caribbean,Caribbean,Developing regions
@@ -4672,7 +4672,7 @@ year ,Name,CODE,number,AreaName,RegName,DevName
 2001,Argentina,ARG,430,Latin America and the Caribbean,South America,Developing regions
 2001,Armenia,ARM,20,Asia,Western Asia,Developing regions
 2001,Aruba,ABW,0,Latin America and the Caribbean,Caribbean,Developing regions
-2001,Australia,AUS,10,Oceania,Australia and New Zealand,Developed regions
+2001,Australia,AUS,0,Oceania,Australia and New Zealand,Developed regions
 2001,Austria,AUT,1050,Europe,Western Europe,Developed regions
 2001,Azerbaijan,AZE,20,Asia,Western Asia,Developing regions
 2001,Bahamas,BHM,20,Latin America and the Caribbean,Caribbean,Developing regions
@@ -4894,7 +4894,7 @@ year ,Name,CODE,number,AreaName,RegName,DevName
 2002,Argentina,ARG,500,Latin America and the Caribbean,South America,Developing regions
 2002,Armenia,ARM,40,Asia,Western Asia,Developing regions
 2002,Aruba,ABW,0,Latin America and the Caribbean,Caribbean,Developing regions
-2002,Australia,AUS,10,Oceania,Australia and New Zealand,Developed regions
+2002,Australia,AUS,0,Oceania,Australia and New Zealand,Developed regions
 2002,Austria,AUT,1070,Europe,Western Europe,Developed regions
 2002,Azerbaijan,AZE,20,Asia,Western Asia,Developing regions
 2002,Bahamas,BHM,20,Latin America and the Caribbean,Caribbean,Developing regions
@@ -5116,7 +5116,7 @@ year ,Name,CODE,number,AreaName,RegName,DevName
 2003,Argentina,ARG,580,Latin America and the Caribbean,South America,Developing regions
 2003,Armenia,ARM,30,Asia,Western Asia,Developing regions
 2003,Aruba,ABW,0,Latin America and the Caribbean,Caribbean,Developing regions
-2003,Australia,AUS,10,Oceania,Australia and New Zealand,Developed regions
+2003,Australia,AUS,0,Oceania,Australia and New Zealand,Developed regions
 2003,Austria,AUT,1050,Europe,Western Europe,Developed regions
 2003,Azerbaijan,AZE,30,Asia,Western Asia,Developing regions
 2003,Bahamas,BHM,20,Latin America and the Caribbean,Caribbean,Developing regions
@@ -5338,7 +5338,7 @@ year ,Name,CODE,number,AreaName,RegName,DevName
 2004,Argentina,ARG,560,Latin America and the Caribbean,South America,Developing regions
 2004,Armenia,ARM,30,Asia,Western Asia,Developing regions
 2004,Aruba,ABW,0,Latin America and the Caribbean,Caribbean,Developing regions
-2004,Australia,AUS,590,Oceania,Australia and New Zealand,Developed regions
+2004,Australia,AUS,0,Oceania,Australia and New Zealand,Developed regions
 2004,Austria,AUT,800,Europe,Western Europe,Developed regions
 2004,Azerbaijan,AZE,20,Asia,Western Asia,Developing regions
 2004,Bahamas,BHM,20,Latin America and the Caribbean,Caribbean,Developing regions
@@ -5560,7 +5560,7 @@ year ,Name,CODE,number,AreaName,RegName,DevName
 2005,Argentina,ARG,450,Latin America and the Caribbean,South America,Developing regions
 2005,Armenia,ARM,40,Asia,Western Asia,Developing regions
 2005,Aruba,ABW,0,Latin America and the Caribbean,Caribbean,Developing regions
-2005,Australia,AUS,700,Oceania,Australia and New Zealand,Developed regions
+2005,Australia,AUS,0,Oceania,Australia and New Zealand,Developed regions
 2005,Austria,AUT,650,Europe,Western Europe,Developed regions
 2005,Azerbaijan,AZE,40,Asia,Western Asia,Developing regions
 2005,Bahamas,BHM,20,Latin America and the Caribbean,Caribbean,Developing regions
@@ -5782,7 +5782,7 @@ year ,Name,CODE,number,AreaName,RegName,DevName
 2006,Argentina,ARG,430,Latin America and the Caribbean,South America,Developing regions
 2006,Armenia,ARM,20,Asia,Western Asia,Developing regions
 2006,Aruba,ABW,0,Latin America and the Caribbean,Caribbean,Developing regions
-2006,Australia,AUS,140,Oceania,Australia and New Zealand,Developed regions
+2006,Australia,AUS,0,Oceania,Australia and New Zealand,Developed regions
 2006,Austria,AUT,790,Europe,Western Europe,Developed regions
 2006,Azerbaijan,AZE,30,Asia,Western Asia,Developing regions
 2006,Bahamas,BHM,30,Latin America and the Caribbean,Caribbean,Developing regions
@@ -6004,7 +6004,7 @@ year ,Name,CODE,number,AreaName,RegName,DevName
 2007,Argentina,ARG,460,Latin America and the Caribbean,South America,Developing regions
 2007,Armenia,ARM,40,Asia,Western Asia,Developing regions
 2007,Aruba,ABW,0,Latin America and the Caribbean,Caribbean,Developing regions
-2007,Australia,AUS,220,Oceania,Australia and New Zealand,Developed regions
+2007,Australia,AUS,0,Oceania,Australia and New Zealand,Developed regions
 2007,Austria,AUT,570,Europe,Western Europe,Developed regions
 2007,Azerbaijan,AZE,50,Asia,Western Asia,Developing regions
 2007,Bahamas,BHM,20,Latin America and the Caribbean,Caribbean,Developing regions
@@ -6226,7 +6226,7 @@ year ,Name,CODE,number,AreaName,RegName,DevName
 2008,Argentina,ARG,490,Latin America and the Caribbean,South America,Developing regions
 2008,Armenia,ARM,60,Asia,Western Asia,Developing regions
 2008,Aruba,ABW,0,Latin America and the Caribbean,Caribbean,Developing regions
-2008,Australia,AUS,780,Oceania,Australia and New Zealand,Developed regions
+2008,Australia,AUS,0,Oceania,Australia and New Zealand,Developed regions
 2008,Austria,AUT,600,Europe,Western Europe,Developed regions
 2008,Azerbaijan,AZE,30,Asia,Western Asia,Developing regions
 2008,Bahamas,BHM,20,Latin America and the Caribbean,Caribbean,Developing regions
